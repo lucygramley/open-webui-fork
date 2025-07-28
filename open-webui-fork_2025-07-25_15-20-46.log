@@ -1,0 +1,9 @@
+[2025-07-25 15:20:46.330] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\open-webui-fork
+[2025-07-25 15:21:21.452] Updating 67 packages at c:\Users\lucygramley\Downloads\ai_test_repos\open-webui-fork
+[2025-07-25 15:23:00.474] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\open-webui-fork
+[2025-07-25 15:23:00.475] Analyzing repository structure...
+[2025-07-25 15:23:00.746] No monorepo structure detected
+[2025-07-25 15:23:00.748] Generating installation commands...
+[2025-07-25 15:23:04.418] Found 1 package installation tasks
+[2025-07-25 15:23:04.420] Installing packages...
+[2025-07-25 15:23:08.790] Initial package installation failed
